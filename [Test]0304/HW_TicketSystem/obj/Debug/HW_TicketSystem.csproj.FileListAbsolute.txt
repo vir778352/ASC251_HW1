@@ -1,0 +1,14 @@
+C:\Users\aaa\documents\visual studio 2013\Projects\[Test]0304\HW_TicketSystem\bin\Debug\HW_TicketSystem.exe.config
+C:\Users\aaa\documents\visual studio 2013\Projects\[Test]0304\HW_TicketSystem\bin\Debug\HW_TicketSystem.exe
+C:\Users\aaa\documents\visual studio 2013\Projects\[Test]0304\HW_TicketSystem\bin\Debug\HW_TicketSystem.pdb
+C:\Users\aaa\documents\visual studio 2013\Projects\[Test]0304\HW_TicketSystem\obj\Debug\HW_TicketSystem.csprojResolveAssemblyReference.cache
+C:\Users\aaa\documents\visual studio 2013\Projects\[Test]0304\HW_TicketSystem\obj\Debug\MainWindow.baml
+C:\Users\aaa\documents\visual studio 2013\Projects\[Test]0304\HW_TicketSystem\obj\Debug\MainWindow.g.cs
+C:\Users\aaa\documents\visual studio 2013\Projects\[Test]0304\HW_TicketSystem\obj\Debug\App.g.cs
+C:\Users\aaa\documents\visual studio 2013\Projects\[Test]0304\HW_TicketSystem\obj\Debug\HW_TicketSystem_MarkupCompile.cache
+C:\Users\aaa\documents\visual studio 2013\Projects\[Test]0304\HW_TicketSystem\obj\Debug\HW_TicketSystem.g.resources
+C:\Users\aaa\documents\visual studio 2013\Projects\[Test]0304\HW_TicketSystem\obj\Debug\HW_TicketSystem.Properties.Resources.resources
+C:\Users\aaa\documents\visual studio 2013\Projects\[Test]0304\HW_TicketSystem\obj\Debug\HW_TicketSystem.csproj.GenerateResource.Cache
+C:\Users\aaa\documents\visual studio 2013\Projects\[Test]0304\HW_TicketSystem\obj\Debug\HW_TicketSystem.exe
+C:\Users\aaa\documents\visual studio 2013\Projects\[Test]0304\HW_TicketSystem\obj\Debug\HW_TicketSystem.pdb
+C:\Users\aaa\documents\visual studio 2013\Projects\[Test]0304\HW_TicketSystem\obj\Debug\HW_TicketSystem_MarkupCompile.lref
